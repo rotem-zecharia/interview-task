@@ -1,6 +1,3 @@
-'use client'
-import Tutorial from "@/components/tutorial";
-
 export default function Home() {
   const tutorialStages = [
     {
